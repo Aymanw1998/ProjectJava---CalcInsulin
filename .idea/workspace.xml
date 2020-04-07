@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="InsulinCalculator:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8aab3010-98da-432e-b1f7-f97420092b68" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="InsulinCalculator" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YAADcSP6kmLmMepLpalr2ZPB0V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ViewModels.Source" />
+      <recent name="Services.Source" />
+      <recent name="Views.Source" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\משתמש\Desktop\Instulin\src" />
+      <recent name="C:\Users\משתמש\Desktop\Instulin" />
+      <recent name="C:\Users\משתמש\Desktop\Instulin\src\Views\Interface" />
+      <recent name="C:\Users\משתמש\Desktop\Instulin\src\Views\Source" />
+      <recent name="C:\Users\משתמש\Desktop\Instulin\src\ViewModels\Source" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.InsulinCalculator.jar">
+    <configuration name="mainSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.mainSource" />
+      <module name="InsulinCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateInsulinViewModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InsulinCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ViewModels.Source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ViewModels.Source" />
+      <option name="MAIN_CLASS_NAME" value="ViewModels.Source.CalculateInsulinViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewHistoryViewModelTest.getHistory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InsulinCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ViewModels.Source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ViewModels.Source" />
+      <option name="MAIN_CLASS_NAME" value="ViewModels.Source.ViewHistoryViewModelTest" />
+      <option name="METHOD_NAME" value="getHistory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsulinCalculator.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/InsulinCalculator.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InsulinCalculator.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/InsulinCalculator_jar/InsulinCalculator.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.InsulinCalculator.jar" />
+        <item itemvalue="Application.mainSource" />
+        <item itemvalue="JAR Application.InsulinCalculator.jar (1)" />
+        <item itemvalue="JUnit.ViewHistoryViewModelTest.getHistory" />
+        <item itemvalue="JUnit.CalculateInsulinViewModelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aab3010-98da-432e-b1f7-f97420092b68" name="Default Changelist" comment="" />
+      <created>1582374906848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582374906848</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="61" key="#InsulinCalculator.jar" timestamp="1582493334715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="61" key="#InsulinCalculator.jar/0.0.1536.824@0.0.1536.824" timestamp="1582493334715" />
+    <state x="362" y="72" key="#Project_Structure" timestamp="1583850154092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583850154092" />
+    <state x="94" y="94" width="1349" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583853357936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="94" y="94" width="1349" height="637" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1583853357936" />
+    <state x="464" y="165" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583849261089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="413" y="146" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1583266630550" />
+    <state x="464" y="165" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1583849261089" />
+    <state x="566" y="273" width="404" height="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583845833634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="273" width="404" height="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583845833634" />
+    <state x="168" y="120" width="1200" height="584" key="DiffContextDialog" timestamp="1582493877339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="168" y="120" width="1200" height="584" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1582493877339" />
+    <state x="475" y="155" key="FileChooserDialogImpl" timestamp="1583850152567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583850152567" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1583876250677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583664532466" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583876250677" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1583876250677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583664532465" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583876250677" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1583876250677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583664532465" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583876250677" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1583876250677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583664532466" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583876250677" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1583876250677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583266517369" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583876250677" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1583876250677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583266517368" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583876250677" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1583876250677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583266517367" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583876250677" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1583876250677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583266517368" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583876250677" />
+    <state x="183" y="0" key="SettingsEditor" timestamp="1583861676091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583268972009" />
+    <state x="183" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583861676091" />
+    <state x="268" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583873963857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="268" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1583873963857" />
+    <state x="541" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583852373089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="541" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1583852373089" />
+    <state x="65" y="0" key="new project wizard" timestamp="1585745472395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585745472395" />
+    <state x="426" y="188" key="run.anything.popup" timestamp="1583851250295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583851250295" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583840425140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583840425140" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/ViewModels/Source/CalculateInsulinViewModelTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Services/Source/GoogleAuthenticator.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Views/Source/RegisterView.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Views/Source/CalculateInsulinView.java</url>
+          <line>34</line>
+          <properties method="actionPerformed">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InsulinCalculator$All_in_InsulinCalculator__3_.ic" NAME="All in InsulinCalculator (3) Coverage Results" MODIFIED="1583852852071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InsulinCalculator$InsulinCalculator_jar.ic" NAME="InsulinCalculator.jar Coverage Results" MODIFIED="1582492940656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InsulinCalculator$UserViewModelTest_doLoginWithGoogle.ic" NAME="UserViewModelTest.doLoginWithGoogle Coverage Results" MODIFIED="1583850827676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ViewModels.Source.*</FILTER>
+    </SUITE>
+  </component>
+</project>

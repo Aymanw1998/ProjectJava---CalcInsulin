@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Main-Class: Main.mainSource
+Class-Path: google-api-services-oauth2-v2-rev20190313-1.30.1.jar mongodb
+ -driver-3.4.3.jar google-oauth-client-java6-1.30.1.jar checker-compat-q
+ ual-2.5.5.jar j2objc-annotations-1.3.jar bson-3.4.3.jar jackson-core-2.
+ 9.9.jar javax.servlet-3.0.0.v201112011016.jar jetty-continuation-8.2.0.
+ v20160908.jar jetty-io-8.2.0.v20160908.jar httpcore-4.4.11.jar google-h
+ ttp-client-xml-1.30.1.jar google-api-client-jackson2-1.30.2.jar commons
+ -logging-1.2.jar checker-compat-qual-2.5.2.jar log4j-1.2.17.jar jdom-2.
+ 0.6.jar google-http-client-appengine-1.30.1.jar xpp3-1.1.4c.jar j2objc-
+ annotations-1.1.jar httpclient-4.5.10.jar junit-4.12.jar junit.jar guav
+ a-28.1-android.jar animal-sniffer-annotations-1.14.jar google-oauth-cli
+ ent-1.30.5.jar jackson-core-2.10.2.jar google-api-client-xml-1.30.2.jar
+  jdo2-api-2.3-eb.jar google-http-client-1.30.1.jar google-http-client-j
+ ackson2-1.34.1.jar opencensus-api-0.24.0.jar google-http-client-gson-1.
+ 30.1.jar google-api-client-java6-1.30.2.jar animal-sniffer-annotations-
+ 1.18.jar opencensus-api-0.21.0.jar jetty-util-8.2.0.v20160908.jar grpc-
+ context-1.22.1.jar google-api-client-protobuf-1.30.2.jar httpcore-4.4.1
+ 3.jar google-http-client-1.34.0.jar google-api-client-servlet-1.30.2.ja
+ r opencensus-contrib-http-util-0.24.0.jar guava-26.0-android.jar google
+ -api-client-1.30.1.jar mongodb-driver-core-3.4.3.jar gson-2.8.5.jar goo
+ gle-api-client-1.30.2.jar transaction-api-1.1.jar google-api-client-gso
+ n-1.30.2.jar jsr305-3.0.2.jar httpcore-4.4.12.jar error_prone_annotatio
+ ns-2.1.3.jar google-oauth-client-servlet-1.30.1.jar httpclient-4.5.8.ja
+ r jetty-server-8.2.0.v20160908.jar guava-28.2-android.jar failureaccess
+ -1.0.1.jar jetty-http-8.2.0.v20160908.jar google-oauth-client-1.30.1.ja
+ r protobuf-java-2.6.1.jar google-api-client-appengine-1.30.2.jar httpcl
+ ient-4.5.11.jar google-oauth-client-appengine-1.30.1.jar grpc-context-1
+ .19.0.jar error_prone_annotations-2.3.4.jar google-http-client-protobuf
+ -1.30.1.jar google-http-client-jackson2-1.30.1.jar google-http-client-1
+ .34.1.jar opencensus-contrib-http-util-0.21.0.jar google-http-client-an
+ droid-1.30.1.jar httpclient-4.5.9.jar commons-codec-1.11.jar error_pron
+ e_annotations-2.3.2.jar google-oauth-client-jetty-1.30.5.jar google-oau
+ th-client-java6-1.30.5.jar google-api-client-android-1.30.2.jar
+

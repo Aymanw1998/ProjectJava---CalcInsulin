@@ -1,0 +1,19 @@
+2020-03-10 20:08:45,041 Views.Source.UserView - Trying to login with google credentials
+2020-03-10 20:09:08,181 Views.Source.UserView - Registering with Email=aymanalwahbani@se.shenkar.ac.il Password=null
+2020-03-10 20:09:28,222 ViewModels.Source.CalculateInsulinViewModel - Adding history item to userId=aymanalwahbani@se.shenkar.ac.il
+2020-03-10 20:10:27,446 ViewModels.Source.RegisterViewModel - Registering with Email=ayman@test1.com Password=aw
+2020-03-10 20:10:58,256 Views.Source.UserView - Trying to login
+2020-03-10 20:11:04,224 Views.Source.UserView - success! userId=5e67d817192a89281cbe9a89
+2020-03-10 20:11:31,486 ViewModels.Source.CalculateInsulinViewModel - Adding history item to userId=5e67d817192a89281cbe9a89
+2020-03-10 22:03:24,696 Views.Source.UserView - Trying to login with google credentials
+2020-03-10 22:03:55,148 Views.Source.UserView - Registering with Email=aymanalwahbani@se.shenkar.ac.il Password=null
+2020-03-10 22:04:20,135 ViewModels.Source.CalculateInsulinViewModel - Adding history item to userId=Ayman Al-Wahbani
+2020-03-10 22:04:57,675 Views.Source.UserView - Trying to login
+2020-03-10 22:05:05,811 Views.Source.UserView - success! email=ayman@test.com
+2020-03-10 22:05:22,071 ViewModels.Source.CalculateInsulinViewModel - Adding history item to userId=Ayman Test
+2020-03-10 22:05:58,213 ViewModels.Source.RegisterViewModel - Registering with Email=ayman@gmail.com Password=AA
+2020-03-10 22:06:07,151 Views.Source.UserView - Trying to login
+2020-03-10 22:06:14,013 Views.Source.UserView - success! email=ayman@gmail.com
+2020-03-10 22:12:16,966 ViewModels.Source.RegisterViewModel - Registering with Email=ayman@gmail.com Password=ayman
+2020-03-10 22:12:24,314 Views.Source.UserView - Trying to login
+2020-03-10 22:12:31,333 Views.Source.UserView - success! email=ayman@gmail.com
